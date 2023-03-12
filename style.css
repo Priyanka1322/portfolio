@@ -1,7 +1,7 @@
 /************TAG SELECTOR**************/
 
 body {
-    background-color:C9EEFF;
+    background-color:powderblue;
 }
 hr{
     background-color: none;  
@@ -17,6 +17,11 @@ h1{
 }
 h3{
     color: rebeccapurple; 
+}
+
+
+#name {
+  color: C9EEFF;
 }
 
 
