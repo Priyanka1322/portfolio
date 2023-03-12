@@ -1,0 +1,25 @@
+/************TAG SELECTOR**************/
+
+body {
+    background-color:powderblue;
+}
+hr{
+    background-color: none;  
+    border-top: dotted;
+   border-color: grey;
+    width: 5%;
+}
+img{
+    height: 120px;
+}
+h1{
+    color:rebeccapurple;
+}
+h3{
+    color: rebeccapurple; 
+}
+
+
+#name {
+  color: rebeccapurple;
+}
